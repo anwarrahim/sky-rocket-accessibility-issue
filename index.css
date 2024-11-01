@@ -58,7 +58,7 @@ a {
     margin: 0;
 }
 .hero-heading span {
-    color: #007000;
+    color: black;
     font-weight: 700;
     line-height: 1;
 }
@@ -79,11 +79,15 @@ a {
     padding: 8px 20px;
     border-radius: 40px;
     width: 100px;
+    background-color: #007000;
+    color: white;
+    font-weight: bold;
+    font-size: 21px;
 }
 
 /* Footer */
 .footer {
-    background-color: #333333;
+    background-color: #000000;
 }
 .social-links {
     display: flex;
@@ -92,7 +96,7 @@ a {
     margin: 0 auto;
     padding: 20px 40px;
     width: 800px;
-    color: #007000;
+    color: #0fad0f;
 }
 .social-links p {
     display: inline;
